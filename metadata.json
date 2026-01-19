@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Home Assistant",
+  "description": "A high-fidelity smart speaker interface powered by Gemini Live API for real-time voice interaction and smart home simulations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
